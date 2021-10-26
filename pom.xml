@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.jessym</groupId>
-    <artifactId>retry-mechanisms-in-apache-camel</artifactId>
+    <artifactId>tutorial-retry-mechanisms-in-apache-camel</artifactId>
     <version>NEXT-SNAPSHOT</version>
 
     <properties>
